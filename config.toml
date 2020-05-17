@@ -5,7 +5,7 @@ defaultContentLanguage = "en"
 languageCode = "en"
 title = "Home"
 publishDir = "pallavirawat.github.io"
-
+enableEmoji = true
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
@@ -196,10 +196,10 @@ theme = "LoveIt"
       Facebook = true
       Linkedin = true
       Whatsapp = true
-      Pinterest = false
-      Tumblr = false
-      HackerNews = false
-      Reddit = false
+      Pinterest = true
+      Tumblr = true
+      HackerNews = true
+      Reddit = true
       VK = false
       Buffer = false
       Xing = false
@@ -208,17 +208,30 @@ theme = "LoveIt"
       Pocket = false
       Digg = false
       Stumbleupon = false
-      Flipboard = false
-      Weibo = true
+      Flipboard = true
+      Weibo = false
       Renren = false
       Myspace = false
-      Blogger = false
+      Blogger = true
       Baidu = false
       Odnoklassniki = false
-      Evernote = false
+      Evernote = true
       Skype = false
-      Trello = false
+      Trello = true
       Mix = false
+
+[params.page.math]
+      enable = true
+      # default block delimiter is $$ ... $$ and \\[ ... \\]
+      blockLeftDelimiter = ""
+      blockRightDelimiter = ""
+      # default inline delimiter is $ ... $ and \\( ... \\)
+      inlineLeftDelimiter = ""
+      inlineRightDelimiter = ""
+      # KaTeX extension copy_tex
+      copyTex = true
+      # KaTeX extension mhchem
+      mhchem = true
 
 [params.page.code]
       # whether to show the copy button of the code block
