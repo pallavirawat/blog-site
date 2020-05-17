@@ -3,7 +3,7 @@ baseURL = "https://rawatpallavi.com/"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "Pallavi Rawat"
+title = "Home"
 publishDir = "pallavirawat.github.io"
 
 # Change the default theme to be use when building the site with Hugo
