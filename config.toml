@@ -76,6 +76,7 @@ theme = "LoveIt"
     # LoveIt NEW | 0.2.0 Header title config
     [params.header.title]
       # URL of the LOGO
+#      https://fontawesome.com/license
       logo = "images/igloo-solid.svg"
       # title name
       name = ""
@@ -295,6 +296,13 @@ theme = "LoveIt"
   name = "Pallavi Rawat"
   email = "me@rawatpallavi.com"
   link = ""
+[params.analytics]
+    enable = true
+    # Google Analytics
+    [params.analytics.google]
+      id = "G-T9E54QMD45"
+      # whether to anonymize IP
+      anonymizeIP = true
 
 [params.cookieconsent]
     enable = true
