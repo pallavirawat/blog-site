@@ -312,23 +312,23 @@ theme = "LoveIt"
       dismiss = ""
       link = ""
 
-[params.search]
-    enable = true
-    # type of search engine ("lunr", "algolia")
-    type = "algolia"
-    # max index length of the chunked content
-    contentLength = 4000
-    # placeholder of the search bar
-    placeholder = "what do you wanna know?"
-    # LoveIt NEW | 0.2.1 max number of results length
-    maxResultLength = 10
-    # LoveIt NEW | 0.2.3 snippet length of the result
-    snippetLength = 30
-    # LoveIt NEW | 0.2.1 HTML tag name of the highlight part in results
-    highlightTag = "em"
-    # LoveIt NEW | 0.2.4 whether to use the absolute URL based on the baseURL in search index
-    absoluteURL = true
-    [params.search.algolia]
-      index = "rawatpallavi-blog"
-      appID = "YMD520OXRD"
-      searchKey = "1126ef05d3df5c5f56a9c102a40c3874"
+#[params.search]
+#    enable = true
+#    # type of search engine ("lunr", "algolia")
+#    type = "algolia"
+#    # max index length of the chunked content
+#    contentLength = 4000
+#    # placeholder of the search bar
+#    placeholder = "what do you wanna know?"
+#    # LoveIt NEW | 0.2.1 max number of results length
+#    maxResultLength = 10
+#    # LoveIt NEW | 0.2.3 snippet length of the result
+#    snippetLength = 30
+#    # LoveIt NEW | 0.2.1 HTML tag name of the highlight part in results
+#    highlightTag = "em"
+#    # LoveIt NEW | 0.2.4 whether to use the absolute URL based on the baseURL in search index
+#    absoluteURL = true
+#    [params.search.algolia]
+#      index = "rawatpallavi-blog"
+#      appID = "YMD520OXRD"
+#      searchKey = "1126ef05d3df5c5f56a9c102a40c3874"
