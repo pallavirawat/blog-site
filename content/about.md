@@ -17,7 +17,7 @@ My name's **Pallavi Rawat**, Pronouns: She/her, They/them.
 
 <br>
 
-My passion for making and breaking stuff enthralled me to continue my career in programming. Thanks to git the breaking stuff is manageable in my case. So I can confidently say no creatures have been harmed ever during this process.
+My passion for making and breaking stuff enthralled me to continue my career in programming. Thanks to git the breaking stuff part is manageable in my case. So I can confidently say no creatures have been harmed ever during this process.
 When it comes to tech stack, I am like jack of all trades, but master of none (Not yet)! Kotlin is something which is looking like a good candidate for this mastery right now.
 I am easily enthralled with tech which makes human life easier and if I could I would automate every single thing (and make all humans sleep in a pod forever). 
 Yes I am one of those devs who can spend 3 hours for writing a code which takes like 10 minutes of manual efforts per person. Developer productivity is very crucial to me.
@@ -38,6 +38,6 @@ Apart from programming I like to draw, do biking, trying to figure out the procr
 
 <br>
 
-If you'ld like to connect or have a quick chat or point our errors you find somewhere, don't shy away in dropping out an email  at <contact@rawatpallavi.com>. I always love feedback which help me be more awesome.
+If you'ld like to connect or have a quick chat or point out errors you find somewhere, don't shy away in dropping out an email  at <contact@rawatpallavi.com>. I always love feedback which help me be more awesome.
 
 <br>
