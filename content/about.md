@@ -50,6 +50,6 @@ Apart from programming I like to sketch, biking, brushing up on my german basics
 
 <br>
 
-If you'ld like to connect or have a quick chat or point out errors you find somewhere, don't shy away in dropping out an email  at <contact@rawatpallavi.com>. I always love feedback which help me be more awesome.
+If you'ld like to connect or have a quick chat or point out errors you find somewhere, don't shy away in dropping out an email  at <me@rawatpallavi.com>. I always love feedback which help me be more awesome.
 
 <br>
