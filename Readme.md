@@ -14,6 +14,12 @@ This will also show all unpublished drafted posts
 hugo server -D
 ```
 
+## Production run in local machine
+useful for viewing some settings which are only acttive in prod like comment config, cdn, fingerprintt etc
+```shell script
+hugo serve -e production
+```
+
 
 #useful links
 hugo shortcuts
