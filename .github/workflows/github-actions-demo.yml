@@ -15,4 +15,7 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
+      - name: echo last git ccommit
+        run: |
+          git log -1 --pretty=%B | xargs echo
       - run: echo "🍏 This job's status is ${{ job.status }}."
