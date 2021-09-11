@@ -29,5 +29,10 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
+          personal_token: ${{ secrets.TOKEN }}
+          external_repository: pallavirawat/pallavirawat.github.io
+          publish_branch: gh-pages-try
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          full_commit_message: ${{ github.event.head_commit.message }}
+          cname: rawatpallavi.com
