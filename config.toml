@@ -123,7 +123,7 @@ theme = "LoveIt"
       # whether to show social links
       social = true
       # LoveIt NEW | 0.2.0 disclaimer (HTML format is supported)
-      disclaimer = "Content and posts coming soon.... "
+      disclaimer = ""
     # Home page posts
     [params.home.posts]
       enable = true

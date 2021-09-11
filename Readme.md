@@ -20,6 +20,12 @@ useful for viewing some settings which are only acttive in prod like comment con
 hugo serve -e production
 ```
 
+## Hugo content commands
+to create a new post
+```
+hugo new posts/my-first-post.md
+```
+this will put in some basic details like data time etc
 
 #useful links
 hugo shortcuts
